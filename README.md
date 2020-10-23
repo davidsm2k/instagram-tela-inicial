@@ -8,5 +8,5 @@
 
 ###### Pré-visualização do projeto: 
 
-![Pagina inicial do Instagram](https://imgur.com/R75c4Id.png)
+![Pagina inicial do Instagram](https://imgur.com/ZkQVDhx.png)
 
